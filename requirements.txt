@@ -1,0 +1,14 @@
+flask
+dotenv
+Flask-RESTful
+flask-cors
+google-genai
+simplegmail
+google-auth-oauthlib
+google-api-python-client
+requests
+
+feedparser
+newspaper3k
+lxml_html_clean
+googlenewsdecoder

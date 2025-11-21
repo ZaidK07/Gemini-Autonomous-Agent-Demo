@@ -1,0 +1,7 @@
+/.venv/
+/__pycache__
+/gmail_credentials/*
+.env
+.DS_Store
+test.py
+/templates/

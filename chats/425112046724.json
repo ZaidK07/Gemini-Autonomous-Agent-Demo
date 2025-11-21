@@ -1,0 +1,22 @@
+{
+    "chat_id": "425112046724",
+    "date": "21/11/2025||15:50:00",
+    "messages": [
+        {
+            "role": "user",
+            "content": "hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I help you today?\n"
+        },
+        {
+            "role": "user",
+            "content": "hi there can you check out my emails"
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there! I've checked and it looks like you don't have any unread emails."
+        }
+    ]
+}
